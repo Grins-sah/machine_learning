@@ -1,0 +1,349 @@
+What is a domain name?
+
+A domain name is the web address people type into a browser to reach a site. Like a fingerprint, each domain name is unique to its website. Domains were created to make it easier for people to access websites without needing to remember IP addresses. For example, when you type "google.com" instead of a bunch of random numbers. Domains are structured with labels separated by dots, making them easy to read and share.
+
+
+An IP address is just a series of four numbers between 0 to 255 separated by periods. While computers love these number sequences, humans do much better with words we can remember. That’s where domain names come in–they’re the shortcut that lets us remember sites like “google.com” instead of a bunch of numbers. Domains are structured with labels separated by dots, making them easy to read and share.
+
+ 
+
+Get your domain name now and then learn how to make a website to go with it. 
+
+
+
+Difference between a domain name and a URL
+
+A lot of people use the terms domain name and Universal Resource Locator (URL) interchangeably, but there’s actually a bit of a difference. A domain name is just one part of a URL. Think of it as the main part of the web address that includes two main elements: the name itself and the extension. For example, in “google.com,” “Google” is the name and “.com” is the top-level domain. But when you look at your browser’s address bar, you’ll see more than just that–it’s made up of several parts of a URL working together to form the full URL.
+
+
+
+Learn more: What is a parked domain?, URI vs URL
+
+
+parts of a domain including protocol, subdomain, extension, name and domain name
+
+
+How do domains work?
+
+The internet is a global network of computers connected by submarine cables, with each computer having an IP address to send and retrieve data. Domain names are easier-to-remember versions of these IP addresses, like saving a friend’s number under their name in your phone. The domain name system (DNS) acts as the internet’s phone book, translating domain names into numeric IP addresses.
+
+
+When you type a domain name in your browser, DNS servers find the matching IP address and send your request to the “name servers,” managed by your web hosting provider. The name servers connect to the web server hosting the site, and the data is sent back to your browser—all in seconds.
+
+
+Learn more: Domain vs. website
+
+
+How do domain names work? DNS process
+
+
+The difference between domain and hosting
+
+To create a website, you need a domain name and web hosting. These two are often provided by the same company, which can make their roles confusing. Together, they form the foundation of your website’s infrastructure.
+
+
+Think of your website as an apartment complex. Web hosting is the land where your building (the website) stands, storing all its files on web servers. The domain name is like the building’s address, making it easy for visitors to find you—just as a physical address does. Adding a path, such as “/blog,” directs visitors to a specific page, much like an apartment number guides someone to a particular unit.
+
+
+The internet itself acts as the street that connects visitors to your virtual building.
+
+ 
+
+
+The difference between domain name, web hosting and website
+
+
+Different types of domains
+
+The DNS uses a unique tree-like structure to keep its huge database organized. At the top is the  root domain, represented by a dot. Everything below that dot forms the domain name space, broken into different levels based on how fast down they fall from the root. 
+
+
+This results in different types of domains, all of which serve a different purpose:
+
+ 
+
+Top-level domains (TLD), including new top-level domains
+
+Second-level domains (SLD)
+
+Third-level domains
+
+
+
+Top-level domains (TLD)
+
+A top-level domain, generally referred to as TLD or domain extension, is the right-most segment of a domain name located after the last dot. It serves to recognize certain characteristics of a website address, such as location and purpose. In August 2022, there were 1,487 TLDs available for registration, the majority of which were added in the last decade. 
+
+
+If you’re picking a TLD, choose one that matches your website’s vibe and audience. The options are endless, so you’re sure to find one that makes your site unique.
+
+
+Let’s take a look at the most popular categorizations:
+
+
+Generic top-level domains (gTLD): Commonly known simply as gTLDs, generic top-level domains are made of three or more characters and are open for registration by anyone. gTLDs account for the vast majority of domain extension options, with more than a thousand added in recent years through ICANN’s new gTLDs program. Available options range from the traditional .org vs. .com and .net to newer options such as .biz, .llc, .tips, .store, .co, .photos, .love, .work, .space, .digital, .club, .tv, .blog, .info, .site, .land, .company, .solutions, .website, .tech, .training, .coach, .world, .party, .yoga, .wiki, .ninja, .directory, .guru, .live, .fit, .studio, .today, .design, .pictures, .expert, .technology, .top, .co.uk .london, .tokyo, .ninja, .email and .xyz. Learn more about what .net is. 
+
+ 
+
+Sponsored top-level domains (sTLD): These are more niche and managed by specific organizations. To register an sTLDA, you usually need to meet certain criteria related to a community or theme. If your website caters to a specific group, an sTLD can help establish credibility and trust right away.
+
+
+Country code top-level domains (ccTLD): There are 308 country code top-level domains, each of which is identified by a unique, two-letter string. While country code top-level domains were originally intended for business and individuals operating in specific geographical areas, there is also a significant number of website owners who register ccTLDs for branding purposes or to take advantage of certain benefits. This is the case with extensions such as .ai (Anguilla), which is particularly popular within companies in the artificial intelligence industry, and .gg (Bailiwick of Guernsey), which has seen a significant popularity rise in the gaming sphere. Other ccTLD include: .de (Germany), .nl (Netherlands), .at (Austria), .mx (Mexico), .me (Montenegro), .ch (Switzerland), .br (Brazil) .be (Belgium), .fr (France), .in (India) and .ca (Canada). 
+
+
+Share of global TLD graph
+
+
+Second-level domains (SLDs)
+
+The second-level domain (SLD) is the part of a domain name that comes before the TLD. It’s typically where you’ll find your brand name, like "wix" is the SLD in "www.wix.com."
+
+
+In some cases, the SLD can also show the type of website in a region. For example, commercial websites in Spain may be registered with the domain extension .com.es whereas in the UK they appear as .co.uk. Likewise, in these same countries academic institutions may be registered under .edu.es and .ac.uk respectively.
+
+
+
+What is a second-level domain? Second-level domain structure
+
+
+Third-level domains
+
+A third-level domain (or subdomain) adds a prefix to a main domain and creates a separate section of your site. It’s perfect for things like blogs, online stores or resource pages without needing to buy a whole new domain. 
+
+
+For example, when creating a free Wix website, your URL might look like username.wixsite.com/siteaddress. But once you buy your own domain, you can add custom subdomains like shop.yourwebsite.com or blog.yourwebsite.com.
+
+
+Third-level domains can get longer if you start adding more nodes. You might come across four-level domains like news.bbc.co.uk or even five-level ones like www.village.fairport.ny.us. While it’s rare to see a domain with more than four levels, it’s possible. For more in-depth examples, check out the most popular domain extensions.
+
+
+
+What is a third-level domain? Third-level domain structure
+
+
+How to choose a domain name
+
+With over 349.9 million domains registered and thousands added daily, finding the perfect domain requires creativity, SEO knowledge and foresight. This guide to how to choose a domain name will help you cover your bases. Here are the most important steps to get you started.
+
+
+Read also: Tips for future-proofing your domain, Most common industry domain name
+
+
+
+Make your domain name easy to type and pronounce
+
+As you start brainstorming domain name ideas, you want to avoid words that are frequently mispronounced (such as “anemone”) or that require a double take before typing (like “liqueur”). You should also refrain from abbreviations and words that can be spelled in numerous ways, such as "ok" or "okay."
+
+
+Test your ideas with friends to make sure they’re easy to remember and type. 
+
+
+
+Ensure your domain name is memorable and relatable
+
+For Bhavik Sarkhedi, founder and creative director of Ohh My Brand, memorability has always been an important detail when choosing a domain name. As Bhavik shares, "A great domain name has to stick. My current company, OhhMyBrand, plays off the phrase "Ohh my God," which makes it relatable and fun. My first business was called Write Right-straight to the point and easy to recall... All short, all catchy, all under 12 characters."
+
+
+As Bhavik continues to experience:
+
+
+"The funny thing is, even though I've sold those companies, people still ping me because they remember the names. That's the magic of keeping it simple, relatable and memorable. If your name has recall value, especially in your industry, it's a game-changer. Short and sharp-that's the rule I swear by."
+
+
+Keep your domain name on brand
+
+Your domain name should reflect your brand, so your brand name is ideal. If the domain name that matches your brand name is already taken, tag on a keyword to optimize its searchability. 
+
+
+When starting a business, register your domain name as soon as you choose your business name. If it's not available, you could use a domain name generator to find something similar. You can even streamline the process by using a business name generator  that immediately shows you the available domains related to each idea.
+
+
+
+business name generator tool to help choose a domain name
+
+
+Choose the right domain extension
+
+When selecting the best extension for your domain name, there are two main things you’ll need to take into account: perception and pricing. In addition to respecting usage rules, such as not registering your store under an .org domain, you’ll also need to take into account how likely people are to trust and remember certain TLDs. According to a study by GrowthBadger, ".com" is the most memorable and most trusted TLD of them all.
+
+
+As for the pricing, the extension you decide will have a direct impact on how much a domain name costs. Make sure to check all options and weigh the pros and cons before settling on a certain TLD.
+
+
+Learn more: Domain lifecycle
+
+
+
+What are domains used for?
+
+Your domain name is key to building your brand online. A custom domain instantly makes your website look more professional and trustworthy—far more than a subdomain from a free hosting service. The domain “www.yourbusinessname.com” stands out much more than “yourbusinessname.freehostingsite.com.”
+
+
+Matching your domain to your business name reinforces your brand, makes it easier for customers to find and remember you, and adds credibility. It also gives you full control over your online presence, from creating custom email addresses to shaping your website’s content and design.
+
+
+A custom domain is easier to promote and far more memorable, whether on social media, business cards or ads. Plus, registering your domain protects your brand by keeping it out of competitors’ hands.
+
+
+Learn more: I have a domain name, now what?
+
+
+
+What is a domain name example?
+
+We've put together some of the world's most well-known domain examples, categorized by niche and as proof that the right domain name is essential to the branding of your business and website.
+
+
+Here are some examples of popular domain names:
+
+
+harvard.edumit.edu
+
+amazon.com
+
+wix.com
+
+spotify.com
+
+airbnb.com
+
+
+
+How to get a domain name
+
+Once you’ve chosen the perfect domain name for your site, it’s time to make it yours and purchase it. There are a few things to keep in mind when figuring out how to register a domain name, including:
+
+
+Checking if your domain name is available 
+
+Choosing the right  registrar for your needs
+
+Planning for the long term so your domain stays secure
+
+
+Let’s take a closer look at how to handle each step.
+
+
+
+Search for your domain name
+ 
+
+First things first, make sure no one else is using the domain name you want. While you could check manually, it can be a hassle if your top choice is already taken. A domain name search tool saves time and effort by showing you whether your domain is available and suggesting similar options (you can also explore the best domain name generators to help you come up with similar domain names). These tools also give you pricing details so you can compare your choices and pick the best one for your site.  
+
+
+
+Pick a domain registrar
+
+Once you’ve found the perfect domain name, it’s time to decide where to buy a domain name. Not all domain registrars are created equal–pricing, customer support and extra features like privacy protection and domain management can vary. Keep these points in mind:
+
+
+
+Pricing
+
+
+Watch out for registrars offering low first-year fees but charging sky-high renewals later. Instead, look for transparent pricing or deals or registrars that provide free domain names. 
+
+
+Tip: Sign up for a Wix Premium plan, and get a free domain with a one-year domain name voucher.
+
+
+
+Check domain availability to buy and register
+
+
+Private domain registration
+
+
+ICANN requires everyone who purchases a domain to provide personal information (including full name, email, address and phone number) that is then made publicly available on a database known as WHOIS. If you’re concerned about privacy or want to minimize the chances of spam and identity theft, you can hide this information using WHOIS privacy protection.
+
+
+Some domain registrars include WHOIS privacy protection as part of their offering, immediately protecting your personal data when you buy a domain name, while others offer it as a paid add-on.
+
+
+
+Web hosting pairing
+
+
+Pairing your domain with hosting from the same provider keeps things simple and can save you money. It allows you to manage all site assets within a single platform, thus minimizing the overall cost and headache.
+
+
+Tip: When you host a site on Wix, you’ll have advanced security monitoring, automatic set-up and enterprise-grade reliability of 99.9% uptime. This helps protect against domain squatting and domain spoofing amongst other cyber threats. 
+
+ 
+
+
+Customer support
+
+
+The availability of customer support is one of the most overlooked aspects when it comes to finding a domain registrar. If you ever have any issues at 3 am and can’t get a hold of anyone, you’ll kick your past self for not choosing a registrar that offers live customer support 24/7.
+
+ 
+
+
+Domain age
+
+
+Domain age refers to the amount of time that a domain name has existed, or, as it sounds, how old it is. You’ll want to know your domain age for the following reasons:
+
+
+If you take a domain that previously belonged to a different business, it can indicate the business’s age. This can affect brand trust—both good or bad—if the domain has built an associated reputation over time. This also can make it necessary to check domain history. 
+
+
+Older domains may have some SEO benefits since they have had time to build traffic.
+
+
+You can verify domain trademark claims based on domain age and the date it was originally registered. 
+
+
+
+Domain email
+
+
+Some domain registrars’ offerings extend beyond website-focused features. Keep an eye out for additional products and tools that may interest you, as it will make it much easier to connect and manage them through your website.
+
+
+For example, if you want a business email address that uses your domain name instead of that of a generic mail provider, you should look for a registrar that also offers personalized email addresses.
+
+
+
+Bulk purchasing
+
+
+If you’re planning to expand or launch new brands, buying multiple domains now could save you time and money later. This is especially relevant if you plan to expand your operations to other geographic locations or have a certain product you’d like to promote as a stand-alone brand.
+
+
+           
+
+How to keep a domain name secure
+
+Protecting your domain name is important to keep your website safe. Here are some simple tips to help you secure your domain: 
+
+
+Choose a reputable domain registrar: Pick a domain registrar known for solid security and great customer service. 
+
+
+Use a strong password: Create a password that’s at least 12 characters long with a mix of upper and lowercase letters, numbers and symbols.
+
+
+Enable two-factor authentication (2FA): Adding 2FA means you’ll need to enter a code from your phone when logging in, giving you an extra layer of protection. 
+
+
+Keep your contact information updated: Make sure your contact information with your domain registrar is up to date. This will help them to contact you if there is any suspicious activity on your account.
+
+
+Watch out for phishing emails: Phishing emails are designed to trick you into revealing your personal information, such as your domain registrar account password. Be careful about clicking on links in emails, even if they appear to be from legitimate sources.
+
+
+Keep your domain registration information private: Domain privacy is critical. Don't share your domain registration information with anyone you don't trust. This includes your domain registrar account password, your domain name and your contact information.
+
+
+
+Plan ahead by purchasing your domain name
+
+If you’re looking to buy a domain or just curious, you’ve likely realized how important domain names are. The US domain name industry is an 8.1 billion-dollar market that’s still growing, including the lucrative business of domain trading.
+
+
+Once you register a domain, it’s yours—so long as you renew it annually or within your registrar’s time frame. This makes it crucial to secure the domain name for any business you start. It can be simple, like your name, or highly marketable, like business.com, which sold for $345 million. This practice, known as domain parking, often aims at domain flipping, and it’s more common than you might think.
+
+
+Consider purchasing additional TLDs you might want in the future 
